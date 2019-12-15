@@ -1,0 +1,9 @@
+[submodule "spdk"]
+	path = spdk
+	url = git@github.com:byjiang1996/spdk.git
+[submodule "SimpleSSD-FullSystem"]
+	path = SimpleSSD-FullSystem
+	url = git@github.com:byjiang1996/SimpleSSD-FullSystem.git
+[submodule "uio"]
+	path = uio
+	url = git@github.com:byjiang1996/uio.git
